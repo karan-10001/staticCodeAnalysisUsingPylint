@@ -1,1 +1,1 @@
-# staticCodeAnalysis-using-pylint
+# staticCodeAnalysis using pylint
