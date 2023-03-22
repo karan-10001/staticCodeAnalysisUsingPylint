@@ -1,0 +1,4 @@
+1.Install pylint package
+2.Run Static Code Analysis on a python program
+3.Check the compliance score of a python program.
+4.Fix common mistakes and improve the compliance score.
