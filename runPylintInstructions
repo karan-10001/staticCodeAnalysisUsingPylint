@@ -1,0 +1,5 @@
+1.Open a terminal
+2.run the below command
+3.pylint sample1.py
+4.Pylint goes through every line of code and gives you a list all the non-compliant lines.
+5.Pylint gives you a compliance score (10 being maximum)
